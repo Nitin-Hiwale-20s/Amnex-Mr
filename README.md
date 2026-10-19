@@ -73,3 +73,4 @@ Atlas -> Network Access -> Allow access from anywhere (`0.0.0.0/0`), because bot
 - Add the two Environment Variables, then Deploy.
 - Limits on Vercel: a request body can be max 4.5 MB (large Excel imports: use Render, or import with `npm run import` from your computer), and a function runs max 60 seconds.
 # Amnex-
+# Amnex-Mr
