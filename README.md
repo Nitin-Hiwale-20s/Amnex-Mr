@@ -74,3 +74,12 @@ Atlas -> Network Access -> Allow access from anywhere (`0.0.0.0/0`), because bot
 - Limits on Vercel: a request body can be max 4.5 MB (large Excel imports: use Render, or import with `npm run import` from your computer), and a function runs max 60 seconds.
 # Amnex-
 # Amnex-Mr
+
+## Mobile friendly + Back button (this version)
+- Works on phones: tables become cards, the menu is a scrollable bottom bar, popups open as bottom sheets,
+  inputs do not zoom on iPhone, forms and buttons are thumb sized.
+- **Back button**: on a phone it is the arrow at the top left, on a computer it is above the page.
+  The phone's own back button / swipe-back also goes to the previous screen instead of leaving the app.
+- **Add to home screen**: open the site in Chrome (Android) > menu > "Add to Home screen",
+  or Safari (iPhone) > Share > "Add to Home Screen". It then opens like a normal app.
+# Amnex-data
